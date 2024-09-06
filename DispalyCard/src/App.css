@@ -1,0 +1,18 @@
+.card{
+  border: 2px solid black;
+ max-width: 23vw;
+ 
+ padding: 5px;
+
+}
+
+.conatiner{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
