@@ -1,0 +1,34 @@
+.reset {
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+
+}
+
+
+.boxes {
+    display: flex;
+    height: 150px;
+    width: 150px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    background-color: #1f3540;
+    border: 4px solid #1f3540;
+    border-radius: 12px;
+    cursor: pointer;
+
+}
+
+
+.board {
+    height: 500px;
+    width: 480px;
+    gap: 5px;
+    display: flex;
+    margin: auto;
+}
+
+.boxes img {
+    margin: auto;
+}
